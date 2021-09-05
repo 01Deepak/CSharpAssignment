@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Users>
+  <User>
+    <Id>1</Id>
+    <Name>User 1</Name>
+    <Phone>7275759723</Phone>
+    <Password>12345678</Password>
+  </User>
+  <User>
+    <Id>1</Id>
+    <Name>User 2</Name>
+    <Phone>9005321749</Phone>
+    <Password>12345678</Password>
+  </User>
+</Users>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Customers>
+  <Customer>
+    <ID>14</ID>
+    <Name>Rajinder</Name>
+    <DOB>12-12-1990</DOB>
+    <Phone>786574678</Phone>
+    <Status>Active</Status>
+    <Password>A66HP893N</Password>
+    <AnnualOrderAmount>4100</AnnualOrderAmount>
+  </Customer>
+  <Customer>
+    <ID>15</ID>
+    <Name>Hemant</Name>
+    <DOB>12-1-2000</DOB>
+    <Phone></Phone>
+    <Status>Inactive</Status>
+    <Password>A66HP893N</Password>
+    <AnnualOrderAmount>3100</AnnualOrderAmount>
+  </Customer>
+  <Customer>
+    <ID>16</ID>
+    <Name>b</Name>
+    <DOB>12-1-2000</DOB>
+    <Phone></Phone>
+    <Status>Inactive</Status>
+    <Password>A66HP893N</Password>
+    <AnnualOrderAmount>1100</AnnualOrderAmount>
+  </Customer>
+  <Customer>
+    <ID>15</ID>
+    <Name>cccc</Name>
+    <DOB>12-1-2000</DOB>
+    <Phone></Phone>
+    <Status>Inactive</Status>
+    <Password>A66HP893N</Password>
+    <AnnualOrderAmount>2100</AnnualOrderAmount>
+  </Customer>
+</Customers>
+

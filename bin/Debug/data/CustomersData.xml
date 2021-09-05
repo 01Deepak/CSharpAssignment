@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Customers>
+  <Customer>
+    <ID>1</ID>
+    <Name>Vishal Singh</Name>
+    <DOB>12-03-1994</DOB>
+    <Phone>9005321749</Phone>
+    <Status>Inactive</Status>
+    <Password>s+mAiynSdSERk9gDrN5sNQ==</Password>
+    <AnnualOrderAmount>30000</AnnualOrderAmount>
+  </Customer>
+  <Customer>
+    <ID>2</ID>
+    <Name>Deepak Singh</Name>
+    <DOB>12-03-1994</DOB>
+    <Phone>7275759723</Phone>
+    <Status>Active</Status>
+    <Password>aB1Rx3biQubmVbuPURA+eA==</Password>
+    <AnnualOrderAmount>30000</AnnualOrderAmount>
+  </Customer>
+</Customers>

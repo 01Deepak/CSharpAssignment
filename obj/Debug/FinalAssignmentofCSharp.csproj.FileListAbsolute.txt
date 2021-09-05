@@ -1,0 +1,7 @@
+E:\step2gen\c#\FinalAssignmentofCSharp\FinalAssignmentofCSharp\bin\Debug\FinalAssignmentofCSharp.exe.config
+E:\step2gen\c#\FinalAssignmentofCSharp\FinalAssignmentofCSharp\bin\Debug\FinalAssignmentofCSharp.exe
+E:\step2gen\c#\FinalAssignmentofCSharp\FinalAssignmentofCSharp\bin\Debug\FinalAssignmentofCSharp.pdb
+E:\step2gen\c#\FinalAssignmentofCSharp\FinalAssignmentofCSharp\obj\Debug\FinalAssignmentofCSharp.csproj.CoreCompileInputs.cache
+E:\step2gen\c#\FinalAssignmentofCSharp\FinalAssignmentofCSharp\obj\Debug\FinalAssignmentofCSharp.exe
+E:\step2gen\c#\FinalAssignmentofCSharp\FinalAssignmentofCSharp\obj\Debug\FinalAssignmentofCSharp.pdb
+E:\step2gen\c#\FinalAssignmentofCSharp\FinalAssignmentofCSharp\obj\Debug\FinalAssignmentofCSharp.csprojAssemblyReference.cache

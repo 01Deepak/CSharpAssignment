@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Users>
+  <User>
+    <Id>1</Id>
+    <Name>Admin 1</Name>
+    <Phone>7275759723</Phone>
+    <Password>12345678</Password>
+  </User>
+</Users>
